@@ -1,0 +1,42 @@
+com.nayab.aichat.app-drawerlayout-1.1.1-0 C:\Users\shaya\.gradle\caches\8.14.2\transforms\081206bff7637828bbb41168253225d8\transformed\drawerlayout-1.1.1\res
+com.nayab.aichat.app-core-runtime-2.2.0-1 C:\Users\shaya\.gradle\caches\8.14.2\transforms\0b79aa21d74b8b0ba9eee94b75395e07\transformed\core-runtime-2.2.0\res
+com.nayab.aichat.app-transition-1.2.0-2 C:\Users\shaya\.gradle\caches\8.14.2\transforms\1170476b4803d63bfd10030207cc5f2b\transformed\transition-1.2.0\res
+com.nayab.aichat.app-appcompat-1.6.1-3 C:\Users\shaya\.gradle\caches\8.14.2\transforms\16f240e1e44d2f982b60ffa619b0e325\transformed\appcompat-1.6.1\res
+com.nayab.aichat.app-emoji2-views-helper-1.2.0-4 C:\Users\shaya\.gradle\caches\8.14.2\transforms\1dea9e86500868a23f904840b758c8af\transformed\emoji2-views-helper-1.2.0\res
+com.nayab.aichat.app-core-1.12.0-5 C:\Users\shaya\.gradle\caches\8.14.2\transforms\215acbe3aa6973e320c91a09eb122b56\transformed\core-1.12.0\res
+com.nayab.aichat.app-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\shaya\.gradle\caches\8.14.2\transforms\2d1d8e25ed83ab9cfc48efe50fea5544\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.nayab.aichat.app-lifecycle-runtime-ktx-2.6.2-7 C:\Users\shaya\.gradle\caches\8.14.2\transforms\2fbc6a7b358fa36733f46ab7ff70e95a\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.nayab.aichat.app-core-ktx-1.12.0-8 C:\Users\shaya\.gradle\caches\8.14.2\transforms\38ac79fd43a420fbc5c846d93456fa57\transformed\core-ktx-1.12.0\res
+com.nayab.aichat.app-lifecycle-livedata-ktx-2.6.2-9 C:\Users\shaya\.gradle\caches\8.14.2\transforms\453766bc7305fc2dfca7a8e57f0a37f0\transformed\lifecycle-livedata-ktx-2.6.2\res
+com.nayab.aichat.app-emoji2-1.2.0-10 C:\Users\shaya\.gradle\caches\8.14.2\transforms\46b29e9ef9ae95b0cc0462a3d9384cc8\transformed\emoji2-1.2.0\res
+com.nayab.aichat.app-material-1.11.0-11 C:\Users\shaya\.gradle\caches\8.14.2\transforms\4b88e11bcfffee2a0e50687d9777794d\transformed\material-1.11.0\res
+com.nayab.aichat.app-savedstate-1.2.1-12 C:\Users\shaya\.gradle\caches\8.14.2\transforms\4cb5be0240261ecf240991096e8095d2\transformed\savedstate-1.2.1\res
+com.nayab.aichat.app-profileinstaller-1.3.0-13 C:\Users\shaya\.gradle\caches\8.14.2\transforms\56c416228b7d18da552ac6dda5350b52\transformed\profileinstaller-1.3.0\res
+com.nayab.aichat.app-appcompat-resources-1.6.1-14 C:\Users\shaya\.gradle\caches\8.14.2\transforms\6bbf22447531af76c9c68fb67a8af1dc\transformed\appcompat-resources-1.6.1\res
+com.nayab.aichat.app-activity-1.8.2-15 C:\Users\shaya\.gradle\caches\8.14.2\transforms\6d03be636236fc641b06c8e1fc4ab66b\transformed\activity-1.8.2\res
+com.nayab.aichat.app-customview-poolingcontainer-1.0.0-16 C:\Users\shaya\.gradle\caches\8.14.2\transforms\7eac0637c0dfd81066a2fc5ce25fce29\transformed\customview-poolingcontainer-1.0.0\res
+com.nayab.aichat.app-fragment-1.3.6-17 C:\Users\shaya\.gradle\caches\8.14.2\transforms\a24802291f61dbbccdbd07fa346d0b4d\transformed\fragment-1.3.6\res
+com.nayab.aichat.app-savedstate-ktx-1.2.1-18 C:\Users\shaya\.gradle\caches\8.14.2\transforms\aa4f20b7e2052e868744e5623ee64a26\transformed\savedstate-ktx-1.2.1\res
+com.nayab.aichat.app-lifecycle-livedata-core-ktx-2.6.2-19 C:\Users\shaya\.gradle\caches\8.14.2\transforms\aa8d6c7d55de15cc4200e1ec6640abc2\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.nayab.aichat.app-lifecycle-process-2.6.2-20 C:\Users\shaya\.gradle\caches\8.14.2\transforms\b02df20710dd6101aaf377dfe83271b5\transformed\lifecycle-process-2.6.2\res
+com.nayab.aichat.app-lifecycle-runtime-2.6.2-21 C:\Users\shaya\.gradle\caches\8.14.2\transforms\b9f5ac863ac719226c50157ba305b916\transformed\lifecycle-runtime-2.6.2\res
+com.nayab.aichat.app-constraintlayout-2.1.4-22 C:\Users\shaya\.gradle\caches\8.14.2\transforms\bbd9e87397056927aa3ecdffd9cd1df4\transformed\constraintlayout-2.1.4\res
+com.nayab.aichat.app-viewpager2-1.1.0-beta02-23 C:\Users\shaya\.gradle\caches\8.14.2\transforms\c592f8403cece0e10e6b4c10dd7c4060\transformed\viewpager2-1.1.0-beta02\res
+com.nayab.aichat.app-lifecycle-livedata-2.6.2-24 C:\Users\shaya\.gradle\caches\8.14.2\transforms\d23b1e7b35e5a338e54e8da07156f0ca\transformed\lifecycle-livedata-2.6.2\res
+com.nayab.aichat.app-activity-ktx-1.8.2-25 C:\Users\shaya\.gradle\caches\8.14.2\transforms\d4f48c2ef2ad721aecccdfa79908c2b2\transformed\activity-ktx-1.8.2\res
+com.nayab.aichat.app-lottie-6.0.1-26 C:\Users\shaya\.gradle\caches\8.14.2\transforms\d5c5eda0d7592a83e3fd9bae16d5e699\transformed\lottie-6.0.1\res
+com.nayab.aichat.app-recyclerview-1.3.2-27 C:\Users\shaya\.gradle\caches\8.14.2\transforms\d97c04fbcd41f8fb300639bfd9c3e347\transformed\recyclerview-1.3.2\res
+com.nayab.aichat.app-lifecycle-viewmodel-ktx-2.6.2-28 C:\Users\shaya\.gradle\caches\8.14.2\transforms\dab4c122aec0441fba2713ab9ef392cb\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.nayab.aichat.app-cardview-1.0.0-29 C:\Users\shaya\.gradle\caches\8.14.2\transforms\dd09ee3bd1844ef01db88a167593f4f7\transformed\cardview-1.0.0\res
+com.nayab.aichat.app-startup-runtime-1.1.1-30 C:\Users\shaya\.gradle\caches\8.14.2\transforms\debead7e5543d738645f97ea90e8fc05\transformed\startup-runtime-1.1.1\res
+com.nayab.aichat.app-annotation-experimental-1.3.0-31 C:\Users\shaya\.gradle\caches\8.14.2\transforms\e0f9d943dc1929cb389eec829aafb74a\transformed\annotation-experimental-1.3.0\res
+com.nayab.aichat.app-lifecycle-livedata-core-2.6.2-32 C:\Users\shaya\.gradle\caches\8.14.2\transforms\fb97b5f883aff751f8b5cf4ce7f5ab9f\transformed\lifecycle-livedata-core-2.6.2\res
+com.nayab.aichat.app-lifecycle-viewmodel-2.6.2-33 C:\Users\shaya\.gradle\caches\8.14.2\transforms\fc0abf0072e28369aaa9f6dd5d0cdc60\transformed\lifecycle-viewmodel-2.6.2\res
+com.nayab.aichat.app-coordinatorlayout-1.1.0-34 C:\Users\shaya\.gradle\caches\8.14.2\transforms\fdfad0823cec3323a30ecaff97d68058\transformed\coordinatorlayout-1.1.0\res
+com.nayab.aichat.app-pngs-35 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\build\generated\res\pngs\debug
+com.nayab.aichat.app-resValues-36 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\build\generated\res\resValues\debug
+com.nayab.aichat.app-packageDebugResources-37 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nayab.aichat.app-packageDebugResources-38 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nayab.aichat.app-debug-39 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.nayab.aichat.app-debug-40 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\src\debug\res
+com.nayab.aichat.app-main-41 D:\AndroidStudioProjects\Internship Projects\Ai-Chat\app\src\main\res

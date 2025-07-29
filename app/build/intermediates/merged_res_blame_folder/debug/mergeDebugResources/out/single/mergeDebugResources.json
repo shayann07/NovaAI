@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_copy.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/copy.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_refresh.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/refresh.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_appicon.png.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/appicon.png"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/raw_loading.json.flat",
+        "source": "com.nayab.aichat.app-main-41:/raw/loading.json"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_send.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_speaker.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/speaker.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_add.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_thumbsup.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/thumbsup.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/xml_backup_rules.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_bg_user_bubble.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/bg_user_bubble.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_thumbsdown.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/thumbsdown.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_mic.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_menu.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_bg_bot_bubble.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/bg_bot_bubble.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/layout_item_message_user.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/layout/item_message_user.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_ic_filter.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_send_button_circle.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/send_button_circle.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_rounded_input_bg.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/rounded_input_bg.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/layout_item_message_bot.xml.flat",
+        "source": "com.nayab.aichat.app-main-41:/layout/item_message_bot.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/drawable_chatbot_icon.png.flat",
+        "source": "com.nayab.aichat.app-main-41:/drawable/chatbot_icon.png"
+    },
+    {
+        "merged": "com.nayab.aichat.app-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.nayab.aichat.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

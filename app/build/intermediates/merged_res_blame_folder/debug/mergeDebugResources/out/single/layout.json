@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.nayab.aichat.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.nayab.aichat.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-mergeDebugResources-38:/layout/item_message_user.xml",
+        "source": "com.nayab.aichat.app-main-41:/layout/item_message_user.xml"
+    },
+    {
+        "merged": "com.nayab.aichat.app-mergeDebugResources-38:/layout/item_message_bot.xml",
+        "source": "com.nayab.aichat.app-main-41:/layout/item_message_bot.xml"
+    }
+]
